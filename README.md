@@ -11,7 +11,7 @@ My name is Luke Griffin and I'm a PhD student at University of Limerick. Feel fr
   
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-griffin-344854279)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](21334528@studentmail.ul.ie)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21334528@studentmail.ul.ie)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=LukeGrif&color=brightgreen&style=for-the-badge)
   [![GitHub followers](https://img.shields.io/github/followers/LukeGrif.svg?style=for-the-badge&color=blue)](https://github.com/LukeGrif?tab=followers)
