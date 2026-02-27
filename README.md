@@ -28,14 +28,7 @@ My name is Luke Griffin and I'm a PhD student at University of Limerick. Feel fr
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LukeGrif&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeGrif&theme=tokyonight&hide_border=true&background=0D1117" />
-  
-</div>
-
-<div align="center">
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeGrif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   
 </div>
 
